@@ -1,0 +1,24 @@
+wyswietlono liste napojow 
+dodano nowy napoj: sok - 23.1
+wyswietlono liste napojow 
+wplacono srodki 
+kupiono napoj: sok - 23.1
+kupiono napoj: sok - 23.1
+kupiono napoj: kawa - 5.0
+kupiono napoj: tymbark - 3.0
+wyswietlono liste napojow 
+dodano nowy napoj: sd - 2.0
+wyswietlono liste napojow 
+wplacono srodki 
+wplacono srodki 
+wplacono srodki 
+wplacono srodki 
+wplacono srodki 
+wplacono srodki 
+wyswietlono liste napojow 
+kupiono napoj: kolka - 8.0
+kupiono napoj: woda - 1.0
+dodano nowy napoj: sok pomaranczowy - 4.3
+wyswietlono liste napojow 
+dodano nowy napoj: sok pomaranczowy - 4.3
+wyswietlono liste napojow 
